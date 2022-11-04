@@ -22,6 +22,15 @@ test ping from namenode to spark-master
 
 -> ping spark-master
 
+* Do update upgrade 
+
+-> apt update
+
+-> apt upgrade
+
+-> apt-get python3 
+
+
 
 
 
