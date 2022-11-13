@@ -46,7 +46,7 @@ Create directory on hadoop -> hdfs dfs -mkdir /data
 -> docker exec -it namenode bash 
 
 -> hdfs dfs -put <file path on namenode> <file on hadoop>
-
+-> hdfs dfs -put "*.csv" /data
 
 
 
